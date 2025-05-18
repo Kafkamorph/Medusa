@@ -37,7 +37,7 @@
     "@fortawesome/vue-fontawesome": "2.0.6",
     "@johmun/vue-tags-input": "2.1.0",
     "axios": "0.24.0",
-    "bootstrap": "3.4.1",
+    "bootstrap": "4.0.0",
     "country-language": "0.1.7",
     "date-fns": "2.25.0",
     "is-visible": "2.2.0",
